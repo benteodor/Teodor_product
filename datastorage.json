@@ -1,0 +1,78 @@
+[
+    {
+      "id": 1,
+      "type": "phone",
+      "price": 10,
+      "productionYear": 2012,
+      "colors": [
+        "red",
+        "green",
+        "blue"
+      ],
+      "info": {
+        "consumption": "B",
+        "model": "VIP",
+        "comments": "high quality"
+      }
+    },
+    {
+      "id": 2,
+      "type": "radio",
+      "price": 200,
+      "productionYear": 1995,
+      "colors": [
+        "blue",
+        "yellow",
+        "green"
+      ],
+      "info": {
+        "consumption": "B",
+        "model": "gold",
+        "comments": "no comments"
+      }
+    },
+    {
+      "id": 3,
+      "type": "moccamaster",
+      "price": 36,
+      "productionYear": 2017,
+      "colors": [
+        "red",
+        "orange",
+        "green"
+      ],
+      "info": {
+        "consumption": "C",
+        "model": "gold",
+        "comments": "high capacity"
+      }
+    },
+    {
+      "id": 4,
+      "type": "phone",
+      "price": 36,
+      "productionYear": 2015,
+      "colors": [
+        "orange",
+        "blue",
+        "black"
+      ],
+      "info": {
+        "consumption": "E",
+        "model": "GT",
+        "comments": "high quality"
+      }
+    },
+    {
+      "id": 5,
+      "type": "tv",
+      "price": 36,
+      "productionYear": 2017,
+      "colors": [
+        "orange",
+        "yellow",
+        "blue"
+      ]
+    }
+  ]
+  
